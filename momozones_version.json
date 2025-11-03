@@ -1,0 +1,16 @@
+{
+  "version": "v2.0.0.0",
+  "notes": "BadBuddha Momo Zones - Multi-timeframe zones from 10, 30, and 60 minute charts",
+  "downloadUrl": "https://github.com/badbuddhatrades/BadBuddha_MomoZones",
+  "published": "2025-11-03",
+  "author": "BadBuddhaCustoms",
+  "breakingChanges": false,
+  "changelog": [
+    "Multi-timeframe support: zones from 10, 30, and 60 minute charts simultaneously",
+    "Zones extend until broken (no lookback limit)",
+    "Timeframe labels on zones (10m, 30m, 60m)",
+    "Works on any chart timeframe",
+    "Volume-weighted zone opacity",
+    "Alerts for hot bars and zone breaks"
+  ]
+}
